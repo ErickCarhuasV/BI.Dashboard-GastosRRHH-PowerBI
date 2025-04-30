@@ -33,7 +33,6 @@ Dentro de este proyecto se presenta un dashboard interactivo desarrollado en **P
 - **Power BI Desktop**
 - **Microsoft Excel** (como fuente de datos)
 - **DAX** para medidas y cálculos dinámicos
-- Diseño responsivo con visualizaciones interactivas
 
  ## Capturas del Proyecto
 - Las capturas del dashboard se encuentran en la carpeta "Capturas"
