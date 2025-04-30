@@ -9,9 +9,7 @@ Dentro de este proyecto se presenta un dashboard interactivo desarrollado en **P
 - Analizar la evolución mensual y trimestral de los gastos
 - Facilitar el análisis de tendencias para la toma de decisiones administrativas
 
-## Descripción del Dataset
-
-> **Nota:** El dataset utilizado es de carácter educativo y fue obtenido como parte de un ejercicio de práctica en análisis de datos. Los valores han sido simulados y no corresponden a información real de una empresa. Fue adaptado desde una fuente abierta con fines académicos
+**Nota:** El dataset utilizado es de carácter educativo y fue obtenido como parte de un ejercicio de práctica en análisis de datos. Los valores han sido simulados y no corresponden a información real de una empresa. Fue adaptado desde una fuente abierta con fines académicos
 
 ## Métricas Clave y Resultados
 
