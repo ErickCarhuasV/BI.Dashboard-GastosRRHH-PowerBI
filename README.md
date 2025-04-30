@@ -36,8 +36,6 @@ Dentro de este proyecto se presenta un dashboard interactivo desarrollado en **P
 - Diseño responsivo con visualizaciones interactivas
 
  ## Capturas del Proyecto
- # Vista general de dashboard
-![image alt](https://github.com/ErickCarhuasV/BI.Dashboard-GastosRRHH-PowerBI/blob/c3028b54cf94c66c8c5dcfb292e273be0ae82dc5/Portada.png)
 - Las capturas del dashboard se encuentran en la carpeta "Capturas"
 - También se puede abrir el archivo ".pbix" directamente en Power BI para exploración completa
  
