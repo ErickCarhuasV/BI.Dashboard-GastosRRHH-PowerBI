@@ -38,5 +38,5 @@ Dentro de este proyecto se presenta un dashboard interactivo desarrollado en **P
  ## Capturas del Proyecto
 
 - Las capturas del dashboard se encuentran en la carpeta "Capturas"
-- También se puede abrir el archivo ".pbix" directamente en Power BI Desktop para exploración completa
+- También se puede abrir el archivo ".pbix" directamente en Power BI para exploración completa
  
